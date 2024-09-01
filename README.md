@@ -2,6 +2,10 @@
 <h1> Seating-Plan </h1>
 </div>
 
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
+
+![Static Badge](https://img.shields.io/badge/made_wtih-Java-orange)
+
 A project created in my first year of universtiy for an assignment.
 
 This project is 1 part out of 8 of the overall assignment, different parts where given to different students in a group of 8.
