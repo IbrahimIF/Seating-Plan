@@ -14,13 +14,13 @@ Using Jframe to make the UI in Eclipse IDE based on the given brief.
 
 -----
 
-## Technologies and Tools Utilised
+## Technologies and Tools Utilised:
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse&perline=1)](https://skillicons.dev)
 
 
 ----
 
-## License
+## License:
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
