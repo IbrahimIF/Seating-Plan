@@ -4,7 +4,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-![Static Badge](https://img.shields.io/badge/made_wtih-Java-orange)
+![Static Badge](https://img.shields.io/badge/made_with-Java-orange)
 
 A project created in my first year of universtiy for an assignment.
 
@@ -21,6 +21,3 @@ Using Jframe to make the UI in Eclipse IDE based on the given brief.
 
 ----
 
-## License:
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
